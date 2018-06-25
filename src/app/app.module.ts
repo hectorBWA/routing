@@ -23,7 +23,7 @@ const appRoutes: Routes = [ // creates routes configuration // application will 
     component: ServersComponent
   },
   {
-    path: 'users/go', // equivalent to localhost4200/users
+    path: 'users', // equivalent to localhost4200/users
     component: UsersComponent
   }
 ];
